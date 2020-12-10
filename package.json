@@ -1,0 +1,44 @@
+{
+	"name": "02thcbin-flutter",
+	"displayName": "02THCBin Flutter",
+	"description": "A collection of extensions for Flutter App development by Chetan Bhalothia",
+	"version": "1.0.0",
+	"publisher": "thcbin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thcbin/laravel-extension-pack"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#5EC8F8",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"flutter",
+		"dart",
+		"app",
+		"android",
+		"ios",
+		"snippet"
+	],
+	"extensionPack": [
+		"redhat.vscode-yaml",
+        "jeroen-meijer.pubspec-assist", 
+        "everettjf.pubspec-dependency-search", 
+        "alexisvt.flutter-snippets", 
+        "marcelovelasquez.flutter-tree", 
+        "madhukesh040011.flutter-mvvm-architecture-generator", 
+        "aksharpatel47.vscode-flutter-helper", 
+        "circlecodesolution.ccs-flutter-color", 
+        "Dart-Code.flutter", 
+        "Dart-Code.dart-code", 
+        "Nash.awesome-flutter-snippets"
+	]
+
+}
