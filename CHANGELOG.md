@@ -1,7 +1,16 @@
 # Change Log
 
-## [Released]
+## [1.0.0]
 
-- 1.0.3 Update Github URL
-- 1.0.2 Update Color and Name
 - Initial release
+
+## [1.0.2]
+
+- Update Color and Name
+
+## [1.0.3]
+
+- Update Github URL
+## [1.0.4]
+
+- Update Documentation

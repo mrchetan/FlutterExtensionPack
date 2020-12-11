@@ -2,7 +2,7 @@
 	"name": "02thcbin-flutter",
 	"displayName": "02 THCBin Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development by Chetan Bhalothia",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -17,28 +17,37 @@
 		"theme": "dark"
 	},
 	"categories": [
-		"Extension Packs"
+		"Extension Packs",
+		"Programming Languages",
+		"Snippets",
+		"Other"
 	],
 	"keywords": [
 		"flutter",
+		"flutter Programming",
+		"flutter Coding",
 		"dart",
+		"dart Languages",
+		"widgets",
 		"app",
 		"android",
 		"ios",
-		"snippet"
+		"snippet",
+		"Snippets",
+		"mobile"
 	],
 	"extensionPack": [
-		"redhat.vscode-yaml",
-        "jeroen-meijer.pubspec-assist", 
-        "everettjf.pubspec-dependency-search", 
-        "alexisvt.flutter-snippets", 
-        "marcelovelasquez.flutter-tree", 
-        "madhukesh040011.flutter-mvvm-architecture-generator", 
-        "aksharpatel47.vscode-flutter-helper", 
-        "circlecodesolution.ccs-flutter-color", 
+		"Dart-Code.dart-code", 
         "Dart-Code.flutter", 
-        "Dart-Code.dart-code", 
-        "Nash.awesome-flutter-snippets"
+        "Nash.awesome-flutter-snippets",
+        "circlecodesolution.ccs-flutter-color", 
+        "aksharpatel47.vscode-flutter-helper", 
+		"madhukesh040011.flutter-mvvm-architecture-generator", 
+        "marcelovelasquez.flutter-tree", 
+		"alexisvt.flutter-snippets", 
+		"jeroen-meijer.pubspec-assist", 
+		"everettjf.pubspec-dependency-search", 
+		"redhat.vscode-yaml"
 	]
 
 }
