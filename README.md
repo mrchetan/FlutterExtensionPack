@@ -9,6 +9,7 @@ A collection of extensions for Laravel development by Chetan Bhalothia
 ## For more information
 
 * [Read Flutter Documentation](https://flutter.dev/docs)
+* [Dart Packegs Library](https://pub.dev/)
 * [Contact THCBin](https://thcb.in/)
 ## Useful Commands
 
