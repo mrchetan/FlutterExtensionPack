@@ -1,6 +1,6 @@
 ## Laravel development Extension Pack by Chetan Bhalothia
 
-A collection of extensions for Laravel development by Chetan Bhalothia
+A collection of extensions for Flutter development by Chetan Bhalothia
 
 
 VS Code extension pack help to create a your Flutter app using Dart code.

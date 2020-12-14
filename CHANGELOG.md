@@ -17,3 +17,6 @@
 ## [1.0.5]
 
 - Add New Extension
+## [1.0.6]
+
+- Update Documentation
