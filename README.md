@@ -1,4 +1,4 @@
-## Laravel development Extension Pack by Chetan Bhalothia
+## Flutter development Extension Pack by Chetan Bhalothia
 
 A collection of extensions for Flutter development by Chetan Bhalothia
 
@@ -35,7 +35,7 @@ This extension pack includes the following extensions:
 
 <br>
 
-### Recommended Software for Laravel development
+### Recommended Software for Flutter development
 
 * [Flutter SDK](https://flutter.dev/docs/get-started/install)
 * [Android Studio](https://developer.android.com/studio)

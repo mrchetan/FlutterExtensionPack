@@ -20,3 +20,9 @@
 ## [1.0.6]
 
 - Update Documentation
+## [1.0.7]
+
+- Update Documentation
+## [1.0.8]
+
+- Update Documentation
