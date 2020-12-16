@@ -5,8 +5,16 @@ A collection of extensions for Flutter development by Chetan Bhalothia
 
 VS Code extension pack help to create a your Flutter app using Dart code.
 
+---
 
-## Included
+# Installation
+
+- Open VS Code and click on Extensions Icon in the Activity Bar.
+- Type **02thcbin-flutter**
+- Install the Extension Pack.
+---
+
+## Included Extensions
 
 This extension pack includes the following extensions:
 
@@ -15,6 +23,8 @@ This extension pack includes the following extensions:
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
+
+* [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.
 
 * [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - This plugin help you to easily visualize the color.
 
@@ -56,3 +66,6 @@ This extension pack includes the following extensions:
 
 **Enjoy Chetan's Extension Pack!**
 
+
+## License
+<a href="https://github.com/techthatmatters/02thcbin-flutter/blob/master/LICENSE">Click here</a>
