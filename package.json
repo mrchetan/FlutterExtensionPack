@@ -2,7 +2,7 @@
 	"name": "02thcbin-flutter",
 	"displayName": "02 THCBin Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development by Chetan Bhalothia",
-	"version": "1.0.8",
+	"version": "1.1.0",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -45,6 +45,7 @@
 		"madhukesh040011.flutter-mvvm-architecture-generator", 
         "marcelovelasquez.flutter-tree", 
 		"alexisvt.flutter-snippets", 
+		"bendixma.dart-data-class-generator",
 		"jeroen-meijer.pubspec-assist", 
 		"everettjf.pubspec-dependency-search", 
 		"gruntfuggly.todo-tree", 

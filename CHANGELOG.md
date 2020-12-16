@@ -26,3 +26,7 @@
 ## [1.0.8]
 
 - Update Documentation
+
+## [1.1.0]
+
+- Add extensions (Dart Data Class Generator)
