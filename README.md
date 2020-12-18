@@ -28,6 +28,8 @@ This extension pack includes the following extensions:
 
 * [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - This plugin help you to easily visualize the color.
 
+- [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quickly scaffold flutter bloc file templates.
+
 * [Flutter Helpers](https://marketplace.visualstudio.com/items?itemName=aksharpatel47.vscode-flutter-helper) - Helper utilities for flutter projects.
 
 * [Flutter MVVM Architecture Generator](https://marketplace.visualstudio.com/items?itemName=madhukesh040011.flutter-mvvm-architecture-generator) - VsCode extension to generate boilerplate code when using FilledStack's responsive architecture using Providers.

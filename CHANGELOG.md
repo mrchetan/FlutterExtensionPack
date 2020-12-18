@@ -34,3 +34,6 @@
 ## [1.2.0]
 
 - Add extensions (bloc)
+## [1.3.0]
+
+- Add extensions (Flutter Files)
