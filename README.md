@@ -1,6 +1,6 @@
-## Flutter development Extension Pack by Chetan Bhalothia
+## Flutter development Extension Pack by Mr Chetan
 
-A collection of extensions for Flutter development by Chetan Bhalothia
+A collection of extensions for Flutter development by Mr Chetan (Chetan Bhalothia).
 
 
 VS Code extension pack help to create a your Flutter app using Dart code.
@@ -57,7 +57,7 @@ This extension pack includes the following extensions:
 
 * [Read Flutter Documentation](https://flutter.dev/docs)
 * [Dart Packegs Library](https://pub.dev/)
-* [Contact THCBin](https://thcb.in/)
+* [Contact Mr Chetan](https://mrchetan.com/)
 ### Useful Commands
 
 * `flutter create <AppName>` 
