@@ -2,7 +2,7 @@
 	"name": "flutter",
 	"displayName": "02 Mr Chetan Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development by Chetan Bhalothia",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",

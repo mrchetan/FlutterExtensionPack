@@ -10,7 +10,7 @@ VS Code extension pack help to create a your Flutter app using Dart code.
 # Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **02thcbin-flutter**
+- Type **mrchetan.flutter**
 - Install the Extension Pack.
 ---
 
@@ -70,4 +70,4 @@ This extension pack includes the following extensions:
 
 
 ## License
-<a href="https://github.com/techthatmatters/02thcbin-flutter/blob/master/LICENSE">Click here</a>
+<a href="https://github.com/mrchetan/FlutterExtensionPack/blob/master/LICENSE">Click here</a>
