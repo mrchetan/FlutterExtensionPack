@@ -2,7 +2,7 @@
 	"name": "flutter",
 	"displayName": "02 Mr Chetan Flutter Extension Pack",
 	"description": "A collection of extensions for Flutter App development by Chetan Bhalothia",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -50,7 +50,6 @@
 		"bendixma.dart-data-class-generator",
 		"jeroen-meijer.pubspec-assist", 
 		"everettjf.pubspec-dependency-search", 
-		"gruntfuggly.todo-tree", 
 		"redhat.vscode-yaml"
 	]
 

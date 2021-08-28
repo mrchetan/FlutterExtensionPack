@@ -43,7 +43,6 @@ This extension pack includes the following extensions:
 * [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add and update dependencies to your Dart and Flutter project.
 
 * [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
-* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=everettjf.gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
 
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support.
 
